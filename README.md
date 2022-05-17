@@ -1,8 +1,21 @@
 # Deepl Translator Helper
 
 This program can watching your clipboard change then emit a hotket event to activate DeepL translator application.
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="Screenshot.png"
+  >
+</p>
+<p align="center">
+  <img 
+    width="233"
+    height="321"
+    src="Screenshot1.png"
+  >
+</p>
 
-<img src="Screenshot.png" title="" alt="info" data-align="center">
 
 ## Dependency
 - python(latest version)
